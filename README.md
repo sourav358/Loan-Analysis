@@ -43,7 +43,8 @@ Loan distribution by Credit Score & Marital Status
 
 Breakdown of total loan amount by Income Bracket & Employment Type
 
-![Uploading image.png…]()
+ <img width="1280" height="733" alt="Screenshot 2025-09-14 104816" src="https://github.com/user-attachments/assets/ca63ffbd-bbfc-45ae-91e9-7f968880be0c" />
+
 
 
 📂 File Structure
