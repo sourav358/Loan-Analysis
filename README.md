@@ -30,6 +30,9 @@ Impact of Mortgage & Dependents on loan distribution
 
 Number of loans by Education Level (High School, Bachelor’s, Master’s, PhD)
 
+![Uploading image.png…]()
+
+
 3. Financial Risk Metrics
 
 Year-over-Year (YOY) loan amount changes
