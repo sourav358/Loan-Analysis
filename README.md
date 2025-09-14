@@ -30,7 +30,7 @@ Impact of Mortgage & Dependents on loan distribution
 
 Number of loans by Education Level (High School, Bachelor’s, Master’s, PhD)
 
-![Uploading image.png…]()
+<img width="1280" height="733" alt="image" src="https://github.com/user-attachments/assets/95b01f55-a019-42df-9602-b8f56810f006" />
 
 
 3. Financial Risk Metrics
@@ -42,6 +42,9 @@ YOY changes in Default Loans
 Loan distribution by Credit Score & Marital Status
 
 Breakdown of total loan amount by Income Bracket & Employment Type
+
+![Uploading image.png…]()
+
 
 📂 File Structure
 
