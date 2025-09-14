@@ -30,7 +30,8 @@ Impact of Mortgage & Dependents on loan distribution
 
 Number of loans by Education Level (High School, Bachelor’s, Master’s, PhD)
 
-<img width="1280" height="733" alt="image" src="https://github.com/user-attachments/assets/95b01f55-a019-42df-9602-b8f56810f006" />
+ <img width="1277" height="737" alt="Screenshot 2025-09-14 104726" src="https://github.com/user-attachments/assets/afa18720-643c-4a2d-94aa-e00bf87df99c" />
+
 
 
 3. Financial Risk Metrics
