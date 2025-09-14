@@ -15,6 +15,9 @@ Loan amount comparison across Age Groups (Teen, Adults, Middle Age, Senior Citiz
 
 Default trends over Years (2013–2018)
 
+<img width="1273" height="740" alt="image" src="https://github.com/user-attachments/assets/e8658782-aebb-4651-abf6-c0420e2f7568" />
+
+
 2. Applicant Demographics & Financial Profile
 
 Median loan amounts by Credit Score categories (Low, Medium, High, Very Low)
